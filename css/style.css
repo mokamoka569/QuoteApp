@@ -1,0 +1,6 @@
+.parent button:hover{
+    background-color: green !important;
+}
+.parent button{
+    transition: 0.5s;
+}
